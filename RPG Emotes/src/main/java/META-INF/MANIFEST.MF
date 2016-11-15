@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.phatdog731.main.main.RpgEmotes
+

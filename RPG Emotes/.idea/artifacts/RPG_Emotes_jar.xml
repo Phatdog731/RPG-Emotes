@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPG Emotes:jar">
+    <output-path>$USER_HOME$/Desktop/Sponge Test Server/mods</output-path>
+    <root id="archive" name="RPG Emotes.jar">
+      <element id="module-output" name="RPG_Emotes_main" />
+    </root>
+  </artifact>
+</component>
